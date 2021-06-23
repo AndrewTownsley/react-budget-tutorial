@@ -2,7 +2,7 @@
  const Spent = () => {
 
   return (
-    <div className="">
+    <div className="alert alert-primary">
       <span>Spent: $960</span>
     </div>
   )
