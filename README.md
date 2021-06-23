@@ -8,4 +8,4 @@ _* hello *_
 3. View what the remaining Balance is.
 4. View the total amount spent.
 5. Edit the Expense items.
-6. Rebuild the app with a new UI in Reacrt and Vanilla JavaScript
+6. Rebuild the app with a new UI in Reacrt and Vanilla JavaScript.
