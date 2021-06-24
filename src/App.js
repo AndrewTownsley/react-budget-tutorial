@@ -1,9 +1,8 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import React, { useState } from 'react';
+import React from 'react';
 import { AppProvider } from './context/AppContext';
 //Components
-import Item from "./Components/Item"
 import Budget from "./Components/Budget"
 import Balance from "./Components/Balance"
 import Spent from "./Components/Spent"
