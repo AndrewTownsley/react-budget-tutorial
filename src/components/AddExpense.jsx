@@ -36,7 +36,7 @@ const AddExpense = () => {
             id="name"
             value={name}
             // eslint-disable-next-line no-const-assign
-            onChange={(event) => setName=(event.target.value)}
+            onChange={(event) => setName(event.target.value)}
           />
         </div>
         <div className="col-sm">
@@ -48,7 +48,7 @@ const AddExpense = () => {
             id="cost"
             value={cost}
             // eslint-disable-next-line no-const-assign
-            onChange={(event) => setCost=(event.target.value)}
+            onChange={(event) => setCost(event.target.value)}
           />
         </div>
       </div>
